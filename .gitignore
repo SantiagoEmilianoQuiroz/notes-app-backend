@@ -1,0 +1,4 @@
+# Ignoramos la carpeta node_modules
+node_modules
+# Ignoramos el archivo .env que contiene variables de entorno sensibles
+.env
